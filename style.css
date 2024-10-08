@@ -1,0 +1,204 @@
+body {
+    font-family: Arial, sans-serif;
+    
+}
+.navbar-nav{
+    font-size: 30px;
+    margin-left: 80%;
+
+} 
+.logo{
+    height: 55px;
+    width:60px;
+    background-image: url(logo.PNG);
+    background-size: cover;
+}
+header.jumbotron {
+    height: 1000px;
+    
+    background-color: #f8f9fa;
+    padding: 60px 20px;
+    background-image: url(oriental.PNG);
+    background-size: cover;
+    
+}
+.box2{
+    margin-bottom: 10px;
+    background-color: black;
+}
+.about{
+    font-size: 3em;
+    color: rgb(3, 55, 55);
+}
+.box1 p{
+    font-size: 2rem;
+}
+
+header h1 {
+    font-size: 3em;
+}
+.ourteam{
+    color: white;
+}
+.box2{
+    height: 1400px;
+}
+.rahul{
+    height: 250px;
+    width: 250px;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    margin-top: 50px;
+    margin-left: 45%; 
+    background-image: url(governer.jpg);
+    background-size: cover;  
+}
+.imfo1{
+    height: 100px;
+    width: 500px;
+    position: relative;
+    top: 270px;
+    right: 150px;
+    margin-top: 10px; 
+}
+.imfo3{
+    height: 100px;
+    width: 500px;
+    position: relative;
+    top: 270px;
+    right: 150px;
+    margin-top: 10px;
+}
+.imfo2{
+    height: 100px;
+    width: 500px;
+    position: relative;
+    top: 270px;
+    right: 150px;
+    margin-top: 10px;
+}
+.imfo4{
+    height: 100px;
+    width: 500px;
+    position: relative;
+    top: 270px;
+    right: 150px;
+    margin-top: 10px;
+}
+.imfo5{
+    height: 100px;
+    width: 500px;
+    position: relative;
+    top: 270px;
+    right: 150px;
+    margin-top: 10px;
+}
+.imfo6{
+    height: 100px;
+    width: 500px;
+    position: relative;
+    top: 270px;
+    right: 150px;
+    margin-top: 10px;
+}
+.prakhar{
+    position: relative;
+    left: 350px;
+    height: 250px;
+    width: 250px;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    margin-top: 250px; 
+    background-image: url(prakhar.png);
+    background-size: cover;     
+}
+.priyansu{
+    position: relative;
+    top: 250px;
+    right: 300px; ;
+    height: 250px;
+    width: 250px;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    margin-top: 50px;
+    margin-left: 50px; 
+    background-image: url(priyanshu1.png);
+    background-size: cover;     
+}
+.kaushik{
+    position: relative;
+    right: 650px;
+    bottom: 125px;
+    height: 250px;
+    width: 250px;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    background-image: url(kaushik.png);
+    background-size: cover;     
+}
+.nitish{
+    position: relative;
+    left: 500px;
+    bottom:150px;
+    height: 250px;
+    width: 250px;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    margin-top: 50px;
+    margin-left: 50px; 
+    background-image: url(nitish.png);
+    background-size: cover;   
+}
+.tripathi{
+    display:list-item;
+    position: relative;
+    left: 600px;
+    bottom: 150px;
+    height: 250px;
+    width: 250px;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    margin-top: 50px;
+    margin-left: 50px; 
+    background-image: url(triphathi.jpeg);
+    background-size: cover;
+}
+.box3{
+    height: 400px;
+}
+.foot-panel1 {
+    background-color: rgb(45, 44, 44);
+    position: relative;
+    height: 500px;
+    width: 2262px;
+    margin-left: 2px;
+    right: 720px;
+    top: 450px;
+
+}
+ul p{
+    position: relative;
+    top: 50px   ;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 15px;
+    color: white;
+}
+ul a{
+    position: relative;
+    top: 50px;
+    font-size: 15px;
+    display: block;
+    margin-top: 10px;
+    
+}
+footer{
+    position: relative;
+    top: 600px;
+    background-color: white;
+    color: black;
+    font-size: 1.5em;
+}
+.event {
+    margin-bottom: 20px;
+}
